@@ -1,14 +1,18 @@
 👋 Hi, I’m Ben Arnold
 
 ## Claims and Interests
-- Currently prevailing interest is in developing Java desktop clients to aid in solving developement problems.  IE: make my job easier.  Java's write-once-run-anywhere is massively under-utilized given that Java is main used on servers to host web applications.
-- Not particularly interested in the applied statistics model taken by AI.  I find myself more drawn to a general metacognitive model that learns as we learn and trains as we train.
+- My previous assertion that Java's "write-once-run-anywhere" capability is significantly underutilized, given its prevalent use as a web application language, finds itself largely undermined by the licensing and signing complexities associated with modern desktop clients.
+- Looking for new ideas to tackle as time allows.
 
 ## What I'm reading
 - I’m currently reading "The Well-Grounded Java Software Developer (Second Edition)" by Evans, Clark and Verburg
+- I'm still digesting "Artificial Intelligence Algorithms" by Rishal Hurbans 
 
 ## Collaborations
-- I’m looking to collaborate on developing cross-reference tools to make development and other analysis tasks easier.  My own efforts in this area are under the [Legyver](https://github.com/Legyver) brand.
+- My previous efforts to develop cross-reference tools to make development and other analysis tasks easier are under the [Legyver](https://github.com/Legyver) brand.
+ - Gradle plugins
+ - JavaFX projects
+ - If I'm committing directly to master, it's because I'm the only one working on the project.
 - 📫 benfarnold@gmail.com
 
 <!---
